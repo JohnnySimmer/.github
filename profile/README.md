@@ -4,4 +4,5 @@
 | No      | Name         | Alias       |
 |---------|--------------|-------------|
 | 1       |Jofel Batutay | bonezegei   | 
-| 3       |Alexis Mel Dingcong | nouzen   |
+| 2       |Bill Sebua    | Gryndoo     |
+| 3       |John Gylor Paypa | JJ
